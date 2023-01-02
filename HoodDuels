@@ -1,0 +1,4 @@
+-- Credit to Noss on youtube
+-- His channel https://www.youtube.com/@Nosssa
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/WinterTime"))()
