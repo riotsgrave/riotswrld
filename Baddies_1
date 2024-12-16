@@ -1,0 +1,3 @@
+_G.AdminKommands = false -- true/false if u want admin kommands
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/uwuware/refs/heads/main/games/BADDIES💅🏽",true))();
+-- Credits to https://www.youtube.com/@rsgmj --
