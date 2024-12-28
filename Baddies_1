@@ -1,3 +1,3 @@
-_G.AdminKommands = false -- true/false if u want admin kommands
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/uwuware/refs/heads/main/games/BADDIES💅🏽",true))();
+getgenv().Version = ("new"); -- 'new' or 'old'
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/uwuware/refs/heads/main/games/BADDIES💅🏽v2-NEWui",true))();
 -- Credits to https://www.youtube.com/@rsgmj --
